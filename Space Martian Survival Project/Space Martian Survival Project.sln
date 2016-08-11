@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4EAB3F48-DE32-EF32-524B-CF782D478312}") = "Space Martian Survival Project", "Assembly-CSharp-firstpass.csproj", "{A5BA24D0-1DD7-E8F1-40EC-56A2EFF8B878}"
+EndProject
+Project("{4EAB3F48-DE32-EF32-524B-CF782D478312}") = "Space Martian Survival Project", "Assembly-CSharp-Editor.csproj", "{AD87F337-EC67-9DC2-0E55-3EAF648B11C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5BA24D0-1DD7-E8F1-40EC-56A2EFF8B878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5BA24D0-1DD7-E8F1-40EC-56A2EFF8B878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5BA24D0-1DD7-E8F1-40EC-56A2EFF8B878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5BA24D0-1DD7-E8F1-40EC-56A2EFF8B878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD87F337-EC67-9DC2-0E55-3EAF648B11C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD87F337-EC67-9DC2-0E55-3EAF648B11C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD87F337-EC67-9DC2-0E55-3EAF648B11C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD87F337-EC67-9DC2-0E55-3EAF648B11C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
